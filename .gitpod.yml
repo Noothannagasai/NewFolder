@@ -7,7 +7,6 @@ tasks:
       dotnet dev-certs https 
       dotnet restore
       dotnet build
-
 vscode:
   extensions:
     - muhammad-sammy.csharp
